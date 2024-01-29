@@ -11,3 +11,4 @@ aainasaaf/aainasaaf is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 [RiggingAgainstPTI.pdf](https://github.com/aainasaaf/aainasaaf/files/14090192/RiggingAgainstPTI.pdf)
+[RiggingAgainstPTI.pdf](https://github.com/aainasaaf/aainasaaf/files/14090686/RiggingAgainstPTI.pdf)
