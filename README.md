@@ -10,6 +10,7 @@
 aainasaaf/aainasaaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[Elections 2024 White Paper.pdf](https://github.com/aainasaaf/aainasaaf/files/14276200/Elections.2024.White.Paper.pdf)
 
 
 
