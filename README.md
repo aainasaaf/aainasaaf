@@ -16,3 +16,6 @@ te Paper.pdf](https://github.com/aainasaaf/aainasaaf/files/14276200/Elections.20
 
 
 [RiggingAgainstPTI.pdf](https://github.com/aainasaaf/aainasaaf/files/14091657/RiggingAgainstPTI.pdf)
+
+
+[PakElectionsWhitePaper2.0.pdf](https://github.com/aainasaaf/aainasaaf/files/14303018/PakElectionsWhitePaper2.0.pdf)
