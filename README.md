@@ -20,4 +20,3 @@ te Paper.pdf](https://github.com/aainasaaf/aainasaaf/files/14276200/Elections.20
 
 [PakElectionsWhitePaper2.0.pdf](https://github.com/aainasaaf/aainasaaf/files/14303018/PakElectionsWhitePaper2.0.pdf)
 
-[PakElectionsWhitePaper3.0-10.pdf](https://github.com/aainasaaf/PakElectionsWhitePaper3.0.pdf)
